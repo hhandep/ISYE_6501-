@@ -1,5 +1,5 @@
-print("New line")
+a <- 5
 
-print("TEst")
-
-print("Test11111")
+name  <- "hande"
+last_name <- "peh"
+print(name + last_name)
